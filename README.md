@@ -1,24 +1,130 @@
-# Trabajo Practico N° 1- Gpo N-1
-## Módulo I: Estructura de Redes IoT- Hardware de Dispositivos IoT
+<div align="center">
 
-## Instituto: ISPC  
-**Carrera:** ![Tecnicatura Superior en Telecomunicaciones]
- 
-**Materia:** Sensores y Actuadores 
+![imagen](https://github.com/user-attachments/assets/feb04bd8-f2d4-4896-a127-ad4c26d2e1c1)
 
-**Docente:** Jorge Elias Morales/ https://github.com/JorEl057
 
----
+<h1> Trabajo Practico N° 1 - Grupo N°1 </h1>
 
-**Integrantes:**
-- Fernando Gimenez Coria ([GitHub](https://github.com/FerCbr))
-- Karina jazmin barbero ([GitHub](https://github.com/karina-lolis))
-- Nicolás Barrionuevo ([GitHub](https://github.com/NicolasBa27))
-- Macarena Aylen Carballo ([GitHub](https://github.com/MacarenaAC))
-- Raul Jara ([GitHub](https://github.com/r-j28))
-- Diego Ezequiel Ares [GitHub]
-- Estudiante [GitHub]
+<h2> Módulo I: Estructura de Redes IoT- Hardware de Dispositivos IoT </h2>
 
-  ---
+
+<h1> Profesor </h1>
+        <table align="center">
+          <thead>
+            <tr>
+              <th>Nombre y Apellido</th>
+              <th>Usuario en GitHub</th>
+              <th>GitHub</th>
+            </tr>
+          </thead>
+          <tbody>
+           <tr>
+              <td> Jorge Elias Morales </td>
+              <td> JorEl057 </td>
+              <td>
+                <a href="https://github.com/JorEl057">
+                  <img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+                </a>
+              </td>
+            </tr>
+        </table>
+  </dd>
+  <dd>
+<dl>
+
+<br>
+
+<h1> 👩‍💻👨🏼‍💻 Integrantes 👩‍💻👨🏼‍💻 </h1>
+        <table align="center">
+          <thead>
+            <tr>
+              <th>Nombre y Apellido</th>
+              <th>Usuario en GitHub</th>
+              <th>GitHub</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td> Marcos Bordón Rios </td>
+              <td> Marcos-BR-03 </td>
+              <td>
+                <a href="https://github.com/Marcos-BR-03">
+                  <img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+                </a>
+              </td>
+            </tr>
+            <tr>
+              <td> Fernando Gimenez Coria </td>
+              <td> FerCbr </td>
+              <td>
+                <a href="https://github.com/FerCbr">
+                  <img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+                </a>
+              </td>
+            </tr>
+            <tr>
+              <td> Karina jazmin barbero </td>
+              <td> karina-lolis </td>
+              <td>
+                <a href="https://github.com/karina-lolis">
+                  <img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+                </a>
+              </td>
+            </tr>
+            <tr>
+              <td> Nicolás Barrionuevo </td>
+              <td> NicolasBa27 </td>
+              <td>
+                <a href="https://github.com/NicolasBa27">
+                  <img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+                </a>
+              </td>
+            </tr>
+            <tr>
+              <td> Macarena Aylen Carballo </td>
+              <td> MacarenaAC </td>
+              <td>
+                <a href="https://github.com/MacarenaAC">
+                  <img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+                </a>
+              </td>
+            </tr>
+           <tr>
+              <td> Raul Jara </td>
+              <td> r-j28 </td>
+              <td>
+                <a href="https://github.com/r-j28">
+                  <img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+                </a>
+              </td>
+            </tr>
+           <tr>
+              <td> Diego Ezequiel Ares </td>
+              <td>  diegote7 </td>
+              <td>
+                <a href="https://github.com/diegote7">
+                  <img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+                </a>
+              </td>
+            </tr>
+           <tr>
+              <td> Juan Diego González Antoniazzi </td>
+              <td> JDGA1997 </td>
+              <td>
+                <a href="https://github.com/JDGA1997">
+                  <img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+                </a>
+              </td>
+            </tr>
+        </table>
+  </dd>
+  <dd>
+<dl>
+
+
+<br>
+
 
 ![README md](https://github.com/user-attachments/assets/c24f476f-6660-442c-9bff-8f9ec52ce9c5)
+
+</div>
