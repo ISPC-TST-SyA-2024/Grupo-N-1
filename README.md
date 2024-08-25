@@ -16,7 +16,7 @@
 - Nicolás Barrionuevo ([GitHub](https://github.com/NicolasBa27))
 - Macarena Aylen Carballo ([GitHub](https://github.com/MacarenaAC))
 - Raul Jara ([GitHub](https://github.com/r-j28))
-- Estudiante [GitHub]
+- Diego Ezequiel Ares [GitHub]
 - Estudiante [GitHub]
 
   ---
