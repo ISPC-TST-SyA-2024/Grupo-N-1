@@ -10,3 +10,5 @@
 **Nicolás Barrionuevo** - "Sistema IoT para la Detección y Monitoreo de la Calidad del Aire en el Hogar"  
 
 **Fernando Gimenez Coria** - "Vehiculo AGV con tecnologia IoT"
+
+**Diego Ezequiel Ares** - "Control de Iluminacion Inteligente"
