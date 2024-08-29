@@ -13,4 +13,4 @@
 
 **Diego Ezequiel Ares** - "Control de Iluminacion Inteligente"
 
-**Macarena Aylèn Carballo** - "Baston inteligente FEEL".
+**Macarena Aylèn Carballo** - "Bastòn inteligente FEEL para detecciòn de obstàculos y caìdas". 
