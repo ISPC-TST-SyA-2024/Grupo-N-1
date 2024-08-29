@@ -12,3 +12,5 @@
 **Fernando Gimenez Coria** - "Vehiculo AGV con tecnologia IoT"
 
 **Diego Ezequiel Ares** - "Control de Iluminacion Inteligente"
+
+**Macarena Aylèn Carballo** - "Baston inteligente FEEL".
