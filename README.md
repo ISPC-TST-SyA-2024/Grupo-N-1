@@ -140,7 +140,7 @@ Se han implementado **8 sistemas IoT diferentes** siguiendo el esquema de modeli
 - **Sistema 5:** Bastòn. Inteligente.FEEL.  Alumna Macarena Carballo.
 - **Sistema 6:** Control de Iluminación Inteligente.  Alumno Diego Ezequiel Ares
 - **Sistema 7:** Control Temperatura Humedad. Alumno Marcos Bordon Rios.
-- **Sistema 8:** 
+- **Sistema 8:** Gestion de Residuos Inteligentes. Alumno Karina Jazmin 
 
 Cada uno de estos sistemas está documentado en los archivos correspondientes dentro del repositorio. Los detalles específicos de la implementación se pueden encontrar en los subdirectorios relevantes.
 
