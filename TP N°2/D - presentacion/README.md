@@ -1,9 +1,14 @@
-<center><img src="./assets/caratula.jpg"></center>
+<div align="center">
+
+![caratula](https://github.com/user-attachments/assets/c421ebb9-bb06-43ec-bab3-834cb70d0cd0)
+
 
 # Trabajo Practico N° 2- Gpo N-1
 ## Módulo I: Estructura de Redes IoT- Hardware de Dispositivos IoT
 
 ***ACTIVIDADES RESUELTAS***
+
+</div>
 
 - Nº 1: Realizada por Diego Ezequiel Ares.
 
