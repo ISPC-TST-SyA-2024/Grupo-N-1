@@ -133,12 +133,12 @@ Cada práctica se ha desarrollado en forma individual y grupal segun el requisit
 
 Se han implementado **8 sistemas IoT diferentes** siguiendo el esquema de modelización propuesto. Cada sistema ha sido esquematizado de acuerdo con el triángulo de proceso, conectividad y sensores. A continuación se detallan los sistemas implementados:
 
-- **Sistema 1:** Sistema IoT para Apertura_Cierre de Válvula de Gas por WiFi. Alumno Juan Diego Gonzalez Antoniazzi.
-- **Sistema 2:** Calidad del Aire en el Hogar. Alumno Nicolás Barrionuevo.
-- **Sistema 3:** Camas IoT para el Monitoreo y Control de Movimientos. Alumno Raul Jara.
-- **Sistema 4:** Vehiculo AGV con Tecnologia IoT. Alumno Fernando Gimenez Coria
-- **Sistema 5:** Bastòn. Inteligente.FEEL. Alumna Macarena Carballo.
-- **Sistema 6:** Control de Iluminación Inteligente. Alumno Diego Ezequiel Ares
+- **Sistema 1:** Sistema IoT para Apertura_Cierre de Válvula de Gas por WiFi.  Alumno Juan Diego Gonzalez Antoniazzi.
+- **Sistema 2:** Calidad del Aire en el Hogar.  Alumno Nicolás Barrionuevo.
+- **Sistema 3:** Camas IoT para el Monitoreo y Control de Movimientos.  Alumno Raul Jara.
+- **Sistema 4:** Vehiculo AGV con Tecnologia IoT.  Alumno Fernando Gimenez Coria
+- **Sistema 5:** Bastòn. Inteligente.FEEL.  Alumna Macarena Carballo.
+- **Sistema 6:** Control de Iluminación Inteligente.  Alumno Diego Ezequiel Ares
 - **Sistema 7:** 
 - **Sistema 8:** 
 
