@@ -117,3 +117,61 @@
 <dl>
 
 </div>
+-----
+
+# Prácticas de Sensores y Actuadores
+
+Este repositorio contiene el desarrollo de las prácticas individuales y grupales realizadas durante el curso.
+
+## Modalidad de Trabajo
+
+Cada práctica se ha desarrollado en forma individual y grupal segun el requisito del docente y el resultado ha sido subido a este repositorio siguiendo la estructura de monorepositorio establecida por grupo. Cada integrante del grupo ha sido asignado a uno o más problemas (issues), y se ha creado el proyecto correspondiente con la documentación asociada. Los issues han sido asignados a los integrantes para documentar la colaboración de cada alumno.
+
+## Requerimiento TP Nro 1
+
+### 1. Implementación de Dispositivos IoT
+
+Se han implementado **8 sistemas IoT diferentes** siguiendo el esquema de modelización propuesto. Cada sistema ha sido esquematizado de acuerdo con el triángulo de proceso, conectividad y sensores. A continuación se detallan los sistemas implementados:
+
+- **Sistema 1:** Sistema IoT para Apertura_Cierre de Válvula de Gas por WiFi.  Alumno Juan Diego Gonzalez Antoniazzi.
+- **Sistema 2:** Calidad del Aire en el Hogar.  Alumno Nicolás Barrionuevo.
+- **Sistema 3:** Camas IoT para el Monitoreo y Control de Movimientos.  Alumno Raul Jara.
+- **Sistema 4:** Vehiculo AGV con Tecnologia IoT.  Alumno Fernando Gimenez Coria
+- **Sistema 5:** Bastòn. Inteligente.FEEL.  Alumna Macarena Carballo.
+- **Sistema 6:** Control de Iluminación Inteligente.  Alumno Diego Ezequiel Ares
+- **Sistema 7:** 
+- **Sistema 8:** 
+
+Cada uno de estos sistemas está documentado en los archivos correspondientes dentro del repositorio. Los detalles específicos de la implementación se pueden encontrar en los subdirectorios relevantes.
+
+### 2. Descripción de Sistemas de Medición, Actuación y Visualización
+
+Para cada uno de los sistemas IoT implementados, se han descrito los sistemas de medición, actuación y visualización según el esquema de dispositivos. La información sobre estos sistemas está organizada de la siguiente manera:
+
+- **Medición:** Descripción de los sensores utilizados y cómo se mide el parámetro de interés.
+- **Actuación:** Descripción de los actuadores utilizados y cómo se realiza la acción o ajuste basado en la medición.
+- **Visualización:** Descripción de las herramientas o métodos utilizados para visualizar los datos medidos, si es aplicable.
+
+Cada descripción está incluida en los documentos específicos dentro de cada subdirectorio del repositorio.
+
+
+
+## Requerimiento TP Nro 2
+
+## Modalidad de Trabajo
+
+Cada práctica se desarrolla en forma grupal y el resultado se sube a este repositorio, respetando la estructura de monorepositorio establecida por grupo. Los ejercicios se implementan de manera que a cada integrante le corresponda uno o más problemas (issues). Los proyectos se crean con la documentación asociada, y los issues se asignan a los integrantes para documentar la colaboración de cada alumno.
+
+
+## Contribuciones
+
+Cada miembro del grupo ha trabajado en tareas específicas asignadas a través de los issues. Puedes ver la asignación de tareas y el progreso en la sección de issues del repositorio.
+
+Para más detalles sobre las contribuciones individuales, por favor consulta los archivos de documentación dentro de cada subdirectorio de las actividades.
+
+
+
+
+
+
+
