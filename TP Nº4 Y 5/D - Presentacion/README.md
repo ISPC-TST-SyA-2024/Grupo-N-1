@@ -10,7 +10,7 @@
 
 </div>
     
-    ** Ejercicio Nº1 **       
+**Ejercicio Nº1**     
        
 - Ejercicio a: Realizado por Karina Jazmin Barbero 
 
@@ -28,7 +28,7 @@
 
 - Ejercicio h: Realizado por 
 
-** Ejercicio Nº2 **        
+**Ejercicio Nº2**       
 
 - Ejercicio i: Realizado por       
 
