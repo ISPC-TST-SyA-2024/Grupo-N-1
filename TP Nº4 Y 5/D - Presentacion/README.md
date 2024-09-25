@@ -6,7 +6,7 @@
 # Trabajo Practico N° 4 y 5- Gpo N-1
 ## Módulo II:  Sensores Resistivos – Sensores Reactivos 
 
-*** Ejercicios Realizados ***
+***Ejercicios Realizados***
 
 </div>
     
