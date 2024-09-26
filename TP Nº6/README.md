@@ -3,9 +3,9 @@
 ![imagen](https://github.com/user-attachments/assets/feb04bd8-f2d4-4896-a127-ad4c26d2e1c1)
 
 
-<h1> Trabajo Practico N° 3 - Grupo N°1 </h1>
+<h1> Trabajo Practico N° 6 - Grupo N°1 </h1>
 
-<h2> Módulo I: Seleccion de Sensores y Actuadores - Proyecto Final </h2>
+<h2> Módulo III: Protocolos UART, SPI, I2C – Visualizadores (Pantallas – Display´s – etc) </h2>
 
 
 <h1> Profesor </h1>
