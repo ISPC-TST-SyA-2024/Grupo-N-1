@@ -18,7 +18,7 @@
 
 - Ejercicio c: Realizado por 
 
-- Ejercicio d: Realizado por 
+- Ejercicio d: Realizado por Juan Diego Gonzaléz Antoniazzi
 
 - Ejercicio e: Realizado por 
 
