@@ -3,9 +3,9 @@
 ![imagen](https://github.com/user-attachments/assets/feb04bd8-f2d4-4896-a127-ad4c26d2e1c1)
 
 
-<h1> Trabajo Practico N° 3 - Grupo N°1 </h1>
+<h1> Trabajo Practico N° 4 y 5 - Grupo N°1 </h1>
 
-<h2> Módulo I: Seleccion de Sensores y Actuadores - Proyecto Final </h2>
+<h2> Módulo II: Sensores Resistivos – Sensores Reactivos </h2>
 
 
 <h1> Profesor </h1>
@@ -135,7 +135,7 @@ Este repositorio contiene el desarrollo de las prácticas individuales y grupale
 Cada práctica se ha desarrollado en forma individual y grupal segun el requisito del docente y el resultado ha sido subido a este repositorio siguiendo la estructura de monorepositorio establecida por grupo. Cada integrante del grupo ha sido asignado a uno o más problemas (issues), y se ha creado el proyecto correspondiente con la documentación asociada. Los issues han sido asignados a los integrantes para documentar la colaboración de cada alumno.
 
 
-## Requerimiento TP Nro 4
+## Requerimiento TP Nro 4 y 5
 
 ## Modalidad de Trabajo
 
