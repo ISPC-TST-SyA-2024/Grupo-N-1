@@ -22,5 +22,8 @@
 
 **Juan DiegoG Gonzalez Antoniazzi** - "Sistema IoT para Apertura/Cierre de Válvula de Gas por WiFi". 
 
+**Marcos Bordon Rios** - "Sistema de control de temperatura y humedad"
+
+**Karina Jazmin Barbero** - "Gestion de Residuos Inteligentes"
 
 

@@ -115,9 +115,8 @@
   </dd>
   <dd>
 <dl>
-
 </div>
------
+
 
 # Prácticas de Sensores y Actuadores
 
@@ -133,14 +132,14 @@ Cada práctica se ha desarrollado en forma individual y grupal segun el requisit
 
 Se han implementado **8 sistemas IoT diferentes** siguiendo el esquema de modelización propuesto. Cada sistema ha sido esquematizado de acuerdo con el triángulo de proceso, conectividad y sensores. A continuación se detallan los sistemas implementados:
 
-- **Sistema 1:** Sistema IoT para Apertura_Cierre de Válvula de Gas por WiFi. Alumno Juan Diego Gonzalez Antoniazzi.
-- **Sistema 2:** Calidad del Aire en el Hogar. Alumno Nicolás Barrionuevo.
-- **Sistema 3:** Camas IoT para el Monitoreo y Control de Movimientos. Alumno Raul Jara.
-- **Sistema 4:** Vehiculo AGV con Tecnologia IoT. Alumno Fernando Gimenez Coria
-- **Sistema 5:** Bastòn. Inteligente.FEEL. Alumna Macarena Carballo.
-- **Sistema 6:** Control de Iluminación Inteligente. Alumno Diego Ezequiel Ares
-- **Sistema 7:** 
-- **Sistema 8:** 
+- **Sistema 1:** Sistema IoT para Apertura_Cierre de Válvula de Gas por WiFi.  Alumno Juan Diego Gonzalez Antoniazzi.
+- **Sistema 2:** Calidad del Aire en el Hogar.  Alumno Nicolás Barrionuevo.
+- **Sistema 3:** Camas IoT para el Monitoreo y Control de Movimientos.  Alumno Raul Jara.
+- **Sistema 4:** Vehiculo AGV con Tecnologia IoT.  Alumno Fernando Gimenez Coria
+- **Sistema 5:** Bastòn. Inteligente.FEEL.  Alumna Macarena Carballo.
+- **Sistema 6:** Control de Iluminación Inteligente.  Alumno Diego Ezequiel Ares
+- **Sistema 7:** Control Temperatura Humedad. Alumno Marcos Bordon Rios.
+- **Sistema 8:** Gestion de Residuos Inteligentes. Alumno Karina Jazmin Barbero.
 
 Cada uno de estos sistemas está documentado en los archivos correspondientes dentro del repositorio. Los detalles específicos de la implementación se pueden encontrar en los subdirectorios relevantes.
 
