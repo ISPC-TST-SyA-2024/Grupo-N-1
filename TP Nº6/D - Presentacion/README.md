@@ -4,7 +4,7 @@
 
 
 # Trabajo Practico N° 6- Gpo N-1
-## Módulo II:  Sensores Resistivos – Sensores Reactivos 
+## Módulo III: Protocolos UART, SPI, I2C – Visualizadores (Pantallas – Display´s – etc)
 
 ***Ejercicios Realizados***
 
