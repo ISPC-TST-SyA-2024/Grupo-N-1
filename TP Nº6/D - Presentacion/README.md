@@ -20,7 +20,7 @@
 
 - Ejercicio 4: Realizado por 
 
-- Ejercicio 5: Realizado por 
+- Ejercicio 5: Realizado por Juan Diego Gonzaléz Antoniazzi
 
 - Ejercicio 6: Realizado por 
 
