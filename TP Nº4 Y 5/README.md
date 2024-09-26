@@ -137,6 +137,8 @@ Cada práctica se ha desarrollado en forma individual y grupal segun el requisit
 
 ## Requerimiento TP Nro 4 y 5
 
+**Tarea Realizada**- JARA RAUL- https://github.com/ISPC-TST-SyA-2024/Grupo-N-1/blob/main/TP%20N%C2%BA4%20Y%205/B%20-%20Investigacion/TP4y5-%201.G%20-%20Jara%20Raul.pdf
+
 ## Modalidad de Trabajo
 
 Cada práctica se desarrolla en forma grupal y el resultado se sube a este repositorio, respetando la estructura de monorepositorio establecida por grupo. Los ejercicios se implementan de manera que a cada integrante le corresponda uno o más problemas (issues). Los proyectos se crean con la documentación asociada, y los issues se asignan a los integrantes para documentar la colaboración de cada alumno.
