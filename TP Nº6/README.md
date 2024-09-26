@@ -137,7 +137,7 @@ Cada práctica se ha desarrollado en forma individual y grupal segun el requisit
 
 ## Requerimiento TP Nro 6
 
-**Tarea Realizada**- RAUL JARA- https://github.com/ISPC-TST-SyA-2024/Grupo-N-1/blob/main/TP%20N%C2%BA6/B%20-%20Investigacion/TP6-%201.E%20-%20Jara%20Raul%20(BLE).pdf
+- **Tarea Realizada**- RAUL JARA- https://github.com/ISPC-TST-SyA-2024/Grupo-N-1/blob/main/TP%20N%C2%BA6/B%20-%20Investigacion/TP6-%201.E%20-%20Jara%20Raul%20(BLE).pdf
 
 ## Modalidad de Trabajo
 
