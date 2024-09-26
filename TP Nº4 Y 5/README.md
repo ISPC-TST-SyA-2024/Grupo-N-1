@@ -137,7 +137,7 @@ Cada práctica se ha desarrollado en forma individual y grupal segun el requisit
 
 ## Requerimiento TP Nro 4 y 5
 
-**Tarea Realizada**- JARA RAUL- https://github.com/ISPC-TST-SyA-2024/Grupo-N-1/blob/main/TP%20N%C2%BA4%20Y%205/B%20-%20Investigacion/TP4y5-%201.G%20-%20Jara%20Raul.pdf
+- **Tarea Realizada**- JARA RAUL- https://github.com/ISPC-TST-SyA-2024/Grupo-N-1/blob/main/TP%20N%C2%BA4%20Y%205/B%20-%20Investigacion/TP4y5-%201.G%20-%20Jara%20Raul.pdf
 
 ## Modalidad de Trabajo
 
