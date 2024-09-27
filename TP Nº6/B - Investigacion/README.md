@@ -21,5 +21,7 @@
 
 7) ¿Qué es el Protocolo WiFi? ¿Dónde lo implementaría?
 
-8) ¿Qué es el Protocolo LoRaWan? ¿Dónde lo implementaría?
+8) ¿Qué es el Protocolo LoRaWan? ¿Dónde lo implementaría?  
+  
+
 
