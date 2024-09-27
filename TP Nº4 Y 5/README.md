@@ -142,12 +142,6 @@ Cada práctica se ha desarrollado en forma individual y grupal segun el requisit
 - **Tarea Realizada**- JARA RAUL- https://github.com/ISPC-TST-SyA-2024/Grupo-N-1/blob/main/TP%20N%C2%BA4%20Y%205/B%20-%20Investigacion/TP4y5-%201.G%20-%20Jara%20Raul.pdf
 
 
-## Requerimiento TP Nro 6.
-
-![alt text](actividad6-1.JPG)
-
-- **Tarea Realizada** 
-
 
 ## Modalidad de Trabajo
 
