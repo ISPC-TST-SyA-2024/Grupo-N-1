@@ -124,19 +124,28 @@
 
 <br>
 
------
 
-# Prácticas de Sensores y Actuadores
 
-Este repositorio contiene el desarrollo de las prácticas individuales y grupales realizadas durante el curso.
 
-## Modalidad de Trabajo
+## Estructura del Proyecto
 
-Cada práctica se ha desarrollado en forma individual y grupal segun el requisito del docente y el resultado ha sido subido a este repositorio siguiendo la estructura de monorepositorio establecida por grupo. Cada integrante del grupo ha sido asignado a uno o más problemas (issues), y se ha creado el proyecto correspondiente con la documentación asociada. Los issues han sido asignados a los integrantes para documentar la colaboración de cada alumno.
+Este repositorio contiene la siguiente estructura de carpetas para organizar nuestro proyecto IoT:
+
+```bash
+A - Requisitos/     # Documentación sobre los requisitos del proyecto  
+
+B - Investigacion/  # Resultados de la investigación realizada  
+
+C - Prototipos/     # Prototipos del sistema IoT  
+
+D - Presentacion/   # Materiales de presentación del proyecto  
+
+E - assets/         # Recursos y archivos utilizados
+```
 
 
 ## Requerimiento TP Nro 7
-
+![img](./E%20-%20assets/Actividad%20n7.png)
 ## Modalidad de Trabajo
 
 Cada práctica se desarrolla en forma grupal y el resultado se sube a este repositorio, respetando la estructura de monorepositorio establecida por grupo. Los ejercicios se implementan de manera que a cada integrante le corresponda uno o más problemas (issues). Los proyectos se crean con la documentación asociada, y los issues se asignan a los integrantes para documentar la colaboración de cada alumno.
