@@ -124,28 +124,27 @@
 
 <br>
 
-
-
-
 ## Estructura del Proyecto
 
-Este repositorio contiene la siguiente estructura de carpetas para organizar nuestro proyecto IoT:
+### A - Requisitos/
+Documentación sobre los requisitos del proyecto.
 
-```bash
-A - Requisitos/     # Documentación sobre los requisitos del proyecto  
+### B - Investigacion/
+Resultados de la investigación realizada.
 
-B - Investigacion/  # Resultados de la investigación realizada  
+### C - Prototipos/
+Prototipos del sistema IoT.
 
-C - Prototipos/     # Prototipos del sistema IoT  
+### D - Presentacion/
+Materiales de presentación del proyecto.
 
-D - Presentacion/   # Materiales de presentación del proyecto  
+### E - assets/
+Recursos y archivos utilizados.
 
-E - assets/         # Recursos y archivos utilizados
-```
-
-
-## Requerimiento TP Nro 7
-![img](./E%20-%20assets/Actividad%20n7.png)
+---
 ## Modalidad de Trabajo
 
 Cada práctica se desarrolla en forma grupal y el resultado se sube a este repositorio, respetando la estructura de monorepositorio establecida por grupo. Los ejercicios se implementan de manera que a cada integrante le corresponda uno o más problemas (issues). Los proyectos se crean con la documentación asociada, y los issues se asignan a los integrantes para documentar la colaboración de cada alumno.
+### Requerimiento TP N° 7
+![img](./E%20-%20assets/Actividad%20n7.png)
+
