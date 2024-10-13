@@ -71,7 +71,7 @@ Ademas, se cuenta con una salida para bomba y tres accionamientos de electrovalv
 #### **Configuración de Pines:**   
 A continuacion se muestra un diagrama con la distribucion de pines en el modulo ESP32-Wroom de **Nodemcu**
 
-    <center><img src="[![Uploading image.png…]()](https://github.com/ISPC-TST-SyA-2024/Grupo-N-1/raw/main/TP%20N%C2%BA8/C%20-%20Prototipos/RiegoAutomatico/assets/esp32nodemcu.jpg)"></center>     
+    <center><img src="(https://github.com/ISPC-TST-SyA-2024/Grupo-N-1/raw/main/TP%20N%C2%BA8/C%20-%20Prototipos/RiegoAutomatico/assets/esp32nodemcu.jpg)"></center>     
    
 
 **Asignacion**   
