@@ -121,28 +121,43 @@
   <dd>
 <dl>
 
-
+![img](./E%20-%20assets/caratula.jpg)
 <br>
 
------
+## Estructura del Proyecto
 
-# Prácticas de Sensores y Actuadores
+### A - Requisitos
+Documentación sobre los requisitos del proyecto.
 
-Este repositorio contiene el desarrollo de las prácticas individuales y grupales realizadas durante el curso.
+### B - Investigacion
+Resultados de la investigación realizada.
+
+### C - Prototipos
+Prototipos del sistema IoT.
+
+### D - Presentacion
+Materiales de presentación del proyecto.
+
+### E - assets
+Recursos y archivos utilizados.
+
 
 ## Modalidad de Trabajo
 
-Cada práctica se ha desarrollado en forma individual y grupal segun el requisito del docente y el resultado ha sido subido a este repositorio siguiendo la estructura de monorepositorio establecida por grupo. Cada integrante del grupo ha sido asignado a uno o más problemas (issues), y se ha creado el proyecto correspondiente con la documentación asociada. Los issues han sido asignados a los integrantes para documentar la colaboración de cada alumno.
+La modalidad será la siguiente: 
+Cada práctica se desarrollará en forma grupal, debiendo subir el 
+desarrollo de la misma al repositorio (respetando la estructura de 
+monorepositorio) establecido por grupo. Los ejercicios serán 
+implementados de forma que a cada integrante le corresponda 1 o más 
+tareas (issues); por lo que deberán crear el proyecto correspondiente, 
+con la documentación asociada si hiciera falta, y asignar los issues por 
+integrante. De esta forma quedara documentada la colaboración de 
+cada alumno.
 
 
-## Requerimiento TP Nro 4 y 5
 
-![alt text](actividad.JPG)
+## Requerimiento TP N° 4 y 5
 
-- **Tarea Realizada**- JARA RAUL- https://github.com/ISPC-TST-SyA-2024/Grupo-N-1/blob/main/TP%20N%C2%BA4%20Y%205/B%20-%20Investigacion/TP4y5-%201.G%20-%20Jara%20Raul.pdf
-
+![img](./E%20-%20assets/actividad.JPG)
 
 
-## Modalidad de Trabajo
-
-Cada práctica se desarrolla en forma grupal y el resultado se sube a este repositorio, respetando la estructura de monorepositorio establecida por grupo. Los ejercicios se implementan de manera que a cada integrante le corresponda uno o más problemas (issues). Los proyectos se crean con la documentación asociada, y los issues se asignan a los integrantes para documentar la colaboración de cada alumno.

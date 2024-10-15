@@ -3,9 +3,9 @@
 ![imagen](https://github.com/user-attachments/assets/feb04bd8-f2d4-4896-a127-ad4c26d2e1c1)
 
 
-<h1> Trabajo Practico N° 6 - Grupo N°1 </h1>
+<h1> Trabajo Practico N° 9 - Grupo N°1 </h1>
 
-<h2> Módulo II: Sensores Generadores y Digitales – Sensores Inteligentes. </h2>
+<h2> Módulo III: Visualizadores – Protocolos – Interfaces de E/S </h2>
 
 
 <h1> Profesor </h1>
@@ -125,30 +125,18 @@
 <br>
 
 -----
-![img](./E%20-%20assets/caratula.jpg)
 
-## Estructura del Proyecto
+# Prácticas de Sensores y Actuadores
 
-### A - Requisitos
-Documentación sobre los requisitos del proyecto.
+Este repositorio contiene el desarrollo de las prácticas individuales y grupales realizadas durante el curso.
 
-### B - Investigacion
-Resultados de la investigación realizada.
+## Modalidad de Trabajo
 
-### C - Prototipos
-Prototipos del sistema IoT.
+Cada práctica se ha desarrollado en forma individual y grupal segun el requisito del docente y el resultado ha sido subido a este repositorio siguiendo la estructura de monorepositorio establecida por grupo. Cada integrante del grupo ha sido asignado a uno o más problemas (issues), y se ha creado el proyecto correspondiente con la documentación asociada. Los issues han sido asignados a los integrantes para documentar la colaboración de cada alumno.
 
-### D - Presentacion
-Materiales de presentación del proyecto.
 
-### E - assets
-Recursos y archivos utilizados.
+## Requerimiento TP Nro 9
 
----
-
-## Requerimiento TP N° 6
-
-![img](./E%20-%20assets/actividad6.JPG)
 ## Modalidad de Trabajo
 
 Cada práctica se desarrolla en forma grupal y el resultado se sube a este repositorio, respetando la estructura de monorepositorio establecida por grupo. Los ejercicios se implementan de manera que a cada integrante le corresponda uno o más problemas (issues). Los proyectos se crean con la documentación asociada, y los issues se asignan a los integrantes para documentar la colaboración de cada alumno.
