@@ -1,6 +1,6 @@
 <div align="center">
 
-![imagen](https://github.com/user-attachments/assets/feb04bd8-f2d4-4896-a127-ad4c26d2e1c1)
+![imagen](./E%20-%20assets/caratula.jpg)
 
 
 <h1> Trabajo Practico N° 9 - Grupo N°1 </h1>
@@ -137,6 +137,4 @@ Cada práctica se ha desarrollado en forma individual y grupal segun el requisit
 
 ## Requerimiento TP Nro 9
 
-## Modalidad de Trabajo
-
-Cada práctica se desarrolla en forma grupal y el resultado se sube a este repositorio, respetando la estructura de monorepositorio establecida por grupo. Los ejercicios se implementan de manera que a cada integrante le corresponda uno o más problemas (issues). Los proyectos se crean con la documentación asociada, y los issues se asignan a los integrantes para documentar la colaboración de cada alumno.
+![img](./E%20-%20assets/Actividad%20n9.png)
