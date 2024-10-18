@@ -73,17 +73,27 @@ A continuacion se muestra un diagrama con la distribucion de pines en el modulo 
   
 <center><img src="./assets/esp32nodemcu.jpg"></center>    
 
-**Asignacion**   
+**Asignación para implemetar sobre modelo Nodemcu-32S de 38 pines**   
 
 - **YL-69** (sensor analógico): Pin ADC0 (GIOP36 / pata 3)   
 - **Hum_Cap** (sensor analogico): Pin ADC5 (GIOP33 / pata 8)  
 - **YL-83** (entrada digital): Pin GIOP12 / pata 13  
 - **HC-SR04** (1 entrada digital, 1 salida digital): Pin GIOP39 / pata 4 (Trigg); Pin GIOP34 / pata 5 (Echo)
-- **touchpad capacitivo**: Pin TOUCH0(GIOP4 / pata 26)  
+- **pulsador**: Pin TOUCH0(GIOP4 / pata 26)   
 - **Salidas relay**: Pin GIOP25 / pata 9; Pin GIOP26 / pata 10; Pin GIOP27 / pata 11; Pin GIOP14 / pata 12
 - **Dispositivos I2C**: Pin I2C SDA / pata 33 y Pin I2C SCL / pata 36  
   
-<center><img src="AQUI VA EL CIRCUITO"></center>  
+**Asignación para implemetar sobre modelo ESP32-S2-MIN-1 (PROTEUS)**   
+
+- **YL-69** (sensor analógico): Pin A0   
+- **Hum_Cap** (sensor analogico): Pin A3 
+- **YL-83** (entrada digital): Pin 12 
+- **HC-SR04** (1 entrada digital, 1 salida digital): Pin 0 (Trigg); Pin 1 (Echo)
+- **pulsador**: Pin 4   
+- **Salidas relay**: Pin 6; Pin 7; Pin 8; Pin 9
+- **Dispositivos I2C**: Pin I2C SDA / pata A4 y Pin I2C SCL / pata A5  
+  
+<center><img src="./assets/circuito.jpg"></center>  
   
 #### **Inicialización de Sensores y Periféricos:**
 - En el `setup()`, se inicializan todos los sensores y periféricos (LCD, touchpads, RELAY).   
@@ -210,12 +220,12 @@ Los sensores se conectan al ESP32-Wroom según las siguientes especificaciones:
 - **YL-69(Analógico):**
   - **VCC:** 3.3V
   - **GND:** GND
-  - **Salida de señal:** GPIO36 (ADC1_CH0)  
+  - **Salida de señal:** GPIO36 (ADC0_CH0)  
     
 - **Hum_Cap(Analógico):**
   - **VCC:** 3.3V
   - **GND:** GND
-  - **Salida de señal:** GPIO33 (ADC5_CH0)  
+  - **Salida de señal:** GPIO39 (ADC3_CH0)  
 
 - **YL-83(digital):**
   - **VCC:** 3.3V

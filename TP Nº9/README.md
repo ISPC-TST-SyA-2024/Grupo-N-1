@@ -122,9 +122,30 @@
 <dl>
 
 
+
+
 <br>
 
------
+## Estructura del Proyecto
+
+### A - Requisitos/
+Documentación sobre los requisitos del proyecto.
+
+### B - Investigacion/
+Resultados de la investigación realizada.
+
+### C - Prototipos/
+Prototipos del sistema IoT.
+
+### D - Presentacion/
+Materiales de presentación del proyecto.
+
+### E - assets/
+Recursos y archivos utilizados.
+
+
+<br>
+
 
 # Prácticas de Sensores y Actuadores
 

@@ -12,19 +12,19 @@
     
 **Ejercicio Nº1**     
        
-- Ejercicio 1: Realizado por 
+- Ejercicio 1: Realizado por Raul Jara
 
-- Ejercicio 2: Realizado por 
+- Ejercicio 2: Realizado por Diego Ares
 
 - Ejercicio 3: Realizado por 
 
-- Ejercicio 4: Realizado por 
+- Ejercicio 4: Realizado por Nicolás Barrionuevo
 
 - Ejercicio 5: Realizado por Juan Diego Gonzaléz Antoniazzi
 
-- Ejercicio 6: Realizado por 
+- Ejercicio 6: Realizado por Fernando Gimenez Coria
 
-- Ejercicio 7: Realizado por 
+- Ejercicio 7: Realizado por Nicolás Barrionuevo
 
 - Ejercicio 8: Realizado por 
 
