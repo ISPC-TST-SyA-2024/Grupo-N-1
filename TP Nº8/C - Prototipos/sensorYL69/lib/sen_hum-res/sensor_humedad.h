@@ -3,9 +3,9 @@
 
 #include <Arduino.h>
 
-Class Sensor_YL69{
+class Sensor_YL69{
     private:
-        int sensorPin; // se defno el pin que voy a usar para la entrada del sensor
+        int sensorPin; // se defino el pin que voy a usar para la entrada del sensor
 
     public: 
     // construtor recibe el numero de pin
@@ -15,8 +15,7 @@ Class Sensor_YL69{
     void begin();
 
     // lectura de la humedad de suelo
-    float leerHumedad()
-
-}
+    float leerHumedad();
+};
 
 #endif
