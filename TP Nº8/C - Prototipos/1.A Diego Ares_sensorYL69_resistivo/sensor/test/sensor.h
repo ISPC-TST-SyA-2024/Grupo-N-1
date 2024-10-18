@@ -3,12 +3,12 @@
 
 #include <Arduino.h>
 
-// Declaración de variables globales
-extern int valor;
-extern int parametro_humedad;
+// Declaración de variables
+extern const int sensorPin;   // Pin del sensor
+extern int sensorValue;       // Valor de lectura del sensor
 
 // Declaración de funciones
-void setup();
-void loop();
+void inicializarSensor();
+int leerHumedad();
 
-#endif  // SENSOR_HUMEDAD_H
+#endif
