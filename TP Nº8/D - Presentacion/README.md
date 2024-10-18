@@ -12,16 +12,16 @@
     
 **Ejercicio Nº1**     
        
-- Ejercicio 1.A: Realizado por 
+- Ejercicio 1.A: Realizado por Diego Ares
 
-- Ejercicio 1.B: Realizado por 
+- Ejercicio 1.B: Realizado por Raul Jara
 
-- Ejercicio 1.C: Realizado por 
+- Ejercicio 1.C: Realizado por Nicolás Barrionuevo
 
-- Ejercicio 2: Realizado por 
+- Ejercicio 2: Realizado por Fernando Gimenez Coria
 
 - Ejercicio 3: Realizado por 
 
-- Ejercicio 4: Realizado por 
+- Ejercicio 4: Realizado por Nicolás Barrionuevo
 
 - Ejercicio 5: Realizado por 
