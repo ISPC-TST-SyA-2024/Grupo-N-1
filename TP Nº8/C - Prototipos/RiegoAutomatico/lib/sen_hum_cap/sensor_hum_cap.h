@@ -1,5 +1,5 @@
-#ifndef SENSOR_HUMEDAD_H
-#define SENSOR_HUMEDAD_H
+#ifndef SENSOR_HUM_CAP_H
+#define SENSOR_HUM_CAP_H
 
 #include <Arduino.h>
 
