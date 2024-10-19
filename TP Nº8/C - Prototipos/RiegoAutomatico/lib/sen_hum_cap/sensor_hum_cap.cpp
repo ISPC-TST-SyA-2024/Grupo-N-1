@@ -1,4 +1,4 @@
-#include "sensor_humedad.h"
+#include "sensor_hum_cap.h"
 
 // Constructor que inicializa el pin del sensor
 SensorHumedad::SensorHumedad(int analogPin) {
