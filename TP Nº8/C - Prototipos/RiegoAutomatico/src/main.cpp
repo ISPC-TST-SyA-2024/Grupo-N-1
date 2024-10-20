@@ -10,8 +10,8 @@
 
 // --------------------- Configuración de Pines para ESP32 mini 30 pines---------------------
 #define YL_83 16 // lluvia
-#define SHC 15 //sensor de humedad capacitivo
-#define SHR 14 // sensor de humedad resistivo
+#define SHC A1 //sensor de humedad capacitivo
+#define SHR A0 // sensor de humedad resistivo
 #define TRG 9 // disparo para sensor ultrasonido
 #define ECO 8 // Echo sensor ultrasonido
 #define puls 2 // pulsador para navegar el LCD
@@ -68,7 +68,7 @@ void setup() {
 // --------------------- Lógica del Menú ---------------------
 void navegarMenu() {
           if (cambia_menu == 1){  
-            if (menuActual <= 2)
+            if (menuActual < 2)
                 menuActual += 1;
             else
                 menuActual = 0; 
@@ -86,30 +86,44 @@ void loop() {
     float hz1 = humcap.leerHumedad(); //humedad de la zona de riego 1
     float hz2 = humres.leerHumedad(); //humedad de la zona de riego 2
     int llueve = lluvia.detectarLluvia(); //pruebo si llueve
-    float reserva_agua = nivel_tanque.medirDistancia(); //mido el nivel del tanque de agua, aca puedo calcular los litro si conozco la dimensiones del tanque.
+    // Suponemos un tanque de base circular (tanque cilindrico vertical) de 10000 litros de capacidad
+    // con el sensor colocado a 10 cm del nivel superior. Diametro del tanque 4 metros, entonces
+    // para 10000 litros la altura lleno es de 7,95dm, y sumamos 1dm correspondiente a la distancia
+    // del sensor hasta el punto maximo de reserva. 
+    // Asi obtenemos que reserva_agua = (8,95 - (nivel_tanque.medirDistancia() / 10))*(3.1416 * 20 * 20)
+    // las medidas se llevan todas a decimetros para conservar la relacion 1 litro = 1 dm3
+    // podemos calcular un rango optima del 50% hasta lleno donde la EV_T permanezca cerrada
+    // 
+    // 
+    
+    float reserva_agua = (8.95 - (nivel_tanque.medirDistancia() / 10))*(3.1416 * 20 * 20); //mido el nivel del tanque de agua, aca puedo calcular los litro si conozco la dimensiones del tanque.
 
     //logica de control del sistema
     if(llueve == 0){
         if (hz1 < 30){
           Serial.println("Zona 1 demasiado seca! Se activara riego");
-          com_salidas[0] = 1;
           com_salidas[1] = 1;
         }
         if (hz1 > 70){
           Serial.println("Zona 1 con suficiente humedad! Se corta el riego");
-          com_salidas[0] = 0;
           com_salidas[1] = 0;
         }
 
         if (hz2 < 30){
           Serial.println("Zona 2 demasiado seca! Se activara riego");
-          com_salidas[0] = 1;
           com_salidas[2] = 1;
         }
         if (hz2 > 70){
           Serial.println("Zona 2 con suficiente humedad! Se corta el riego");
-          com_salidas[0] = 0;
           com_salidas[2] = 0;
+        }
+        if (hz1 < 30 || hz2 < 30){
+          Serial.println("Se enciende la bomba");
+          com_salidas[0] = 1;
+        }
+        else{
+          Serial.println("Apagando bomba");
+          com_salidas[0] = 0;
         }
     }
     else 
@@ -119,11 +133,11 @@ void loop() {
         com_salidas[1] = 0;
         com_salidas[2] = 0;
       }
-    if (reserva_agua > 50){
+    if (reserva_agua < 5000){
       com_salidas[3] = 1;
       Serial.println("Bajo nivel de reserva, abriendo ingreso de agua");
       }
-    if (reserva_agua < 10){
+    if (reserva_agua > 10000){
       com_salidas[3] = 0;
       Serial.println("Optimo nivel de reserva, cerrando ingreso de agua");
     }
