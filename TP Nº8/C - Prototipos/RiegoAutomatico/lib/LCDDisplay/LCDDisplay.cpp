@@ -1,7 +1,7 @@
 #include "LCDDisplay.h"
 
 
-LCDDisplay::LCDDisplay() : lcd(0x27, 20, 4) {}
+LCDDisplay::LCDDisplay() : lcd(0x3F, 20, 4) {}
 
 void LCDDisplay::begin() {
     lcd.begin(20, 4, 0);
@@ -12,13 +12,16 @@ void LCDDisplay::displayMenu(int menu) {
     lcd.clear();
     switch (menu) {
         case 0:
+            lcd.clear();
             lcd.print("HUMEDAD DEL SUELO: ");
             break;
         case 1:
+            lcd.clear();
             lcd.print("RIEGO: ");
             break;
         case 2:
-            lcd.print("Estado Bomba/E_valv: ");
+            lcd.clear();
+            lcd.print("Nivel Tanque/E_valv:");
             break;
     }
 }
@@ -29,6 +32,7 @@ void LCDDisplay::updateMenu(int menu, float Humedad_CAP, float Humedad_YL69, boo
     switch (menu) {
         case 0:
             if (Lluvia_YL83 == true){
+                lcd.clear();
                 lcd.setCursor(6, 0);
                 lcd.print("Lluvia");
                 lcd.setCursor(0, 1);
@@ -36,34 +40,44 @@ void LCDDisplay::updateMenu(int menu, float Humedad_CAP, float Humedad_YL69, boo
             }
             else
             {
+                lcd.setCursor(0, 0);
+                displayMenu(menu);
+                lcd.setCursor(0, 1);
                 lcd.print("Z1: ");
-                lcd.print(Humedad_YL69);
-                lcd.print("Z2: ");
                 lcd.print(Humedad_CAP);
+                lcd.print(" Z2: ");
+                lcd.print(Humedad_YL69);
             }
             break;
 
         case 1:
             if (Lluvia_YL83 == true){
+                lcd.clear();
                 lcd.setCursor(6, 0);
                 lcd.print("Lluvia");
                 lcd.setCursor(0, 1);
                 lcd.print("Riego interrumpido");
                 }
             else{
-                lcd.print("Bomba: ");
+                lcd.setCursor(0, 0);
+                displayMenu(menu);
+                lcd.setCursor(0, 1);
+                lcd.print("B: ");
                 lcd.print(bomba);
-                lcd.print("EVZ1: ");
+                lcd.print(" EVZ1: ");
                 lcd.print(EVZ1);
-                lcd.print("EVZ2: ");
+                lcd.print(" EVZ2: ");
                 lcd.print(EVZ2);
                 }
             break;
             
         case 2:
+            //lcd.clear();
             lcd.print("Nivel: ");
             lcd.print(nivel_tanque);
-            lcd.print(" EV_T: ");
+            lcd.print("lts");
+            lcd.setCursor(0, 2);
+            lcd.print("EV_T: ");
             lcd.print(EVT);
             break;
     }

@@ -13,6 +13,6 @@ void Sensor_YL69::begin() {
 float Sensor_YL69::leerHumedad() {
   int valorLectura = analogRead(pin);  // Leer el valor analógico
   // Convertir el valor analógico a un porcentaje de humedad (0 - 100%)
-  float porcentajeHumedad = map(valorLectura, 0, 4095, 0, 100);
+  float porcentajeHumedad = map(valorLectura, 0, 1024/*4095*/, 0, 100);
   return porcentajeHumedad;
 }
