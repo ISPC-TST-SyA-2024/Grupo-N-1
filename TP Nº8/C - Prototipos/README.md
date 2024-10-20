@@ -84,7 +84,8 @@ A continuacion se muestra un diagrama con la distribucion de pines en el modulo 
 - **Salidas relay**: Pin GIOP25 / pata 9; Pin GIOP26 / pata 10; Pin GIOP27 / pata 11; Pin GIOP14 / pata 12
 - **Dispositivos I2C**: Pin I2C SDA / pata 33 y Pin I2C SCL / pata 36  
   
-<center><img src="AQUI VA EL CIRCUITO"></center>  
+![circuito](https://github.com/user-attachments/assets/f7cb3508-19ac-4c30-acd2-fd80fe3bbdd7)
+
   
 #### **Inicialización de Sensores y Periféricos:**
 - En el `setup()`, se inicializan todos los sensores y periféricos (LCD, touchpads, RELAY).   

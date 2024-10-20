@@ -14,19 +14,19 @@
        
 - Ejercicio 1: Realizado por Juan Diego Gonzaléz Antoniazzi
 
-- Ejercicio 2: Realizado por 
+- Ejercicio 2: Realizado por Diego Ezequiel Ares 
 
-- Ejercicio 3: Realizado por 
+- Ejercicio 3: Realizado por Nicolás Barrionuevo
 
-- Ejercicio 4: Realizado por 
+- Ejercicio 4: Realizado por Macarena Aylèn Carballo y Nicolás Barrionuevo 
 
-- Ejercicio 5: Realizado por 
+- Ejercicio 5: Realizado por Raul Jara 
 
-- Ejercicio 6: Realizado por 
+- Ejercicio 6: Realizado por Nicolás Barrionuevo
 
-- Ejercicio 7: Realizado por 
+- Ejercicio 7: Realizado por Karina Jazmin Barbero 
 
-- Ejercicio 8: Realizado por 
+- Ejercicio 8: Realizado por Fernando Gimenez Coria 
 
 
 
