@@ -55,9 +55,9 @@ PlatformIO en Vscode
 * Al recibir un mensaje, lo muestra en la pantalla LCD.
 * Envía un mensaje ACK de vuelta al emisor.
 
-# Es posible mejorar el algoritmo para que los controladores no esten leyendo el boton o escuchando los mensajes constantemente?  
+# Es posible mejorar el algoritmo para que los controladores no esten leyendo el botón o escuchando los mensajes constántemente?  
 Es posible mediante el uso de las interrupciones. 
-Una interrupcion, como su nombra lo indica, corta el flujo normal del programa para atender una actividad determinada y luego devuelve el control del flujo a donde habia quedado.   
+Una interrupción, como su nombre lo indica, corta el flujo normal del programa para atender una actividad determinada y luego devuelve el control del flujo a donde había quedado.   
 
 ## ISR en Microcontroladores: Reglas y Buenas Prácticas
 ### - ISR deben ser cortas y rápidas:
