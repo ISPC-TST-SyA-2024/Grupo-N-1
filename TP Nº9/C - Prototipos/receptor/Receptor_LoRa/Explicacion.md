@@ -60,15 +60,15 @@ Es posible mediante el uso de las interrupciones.
 Una interrupción, como su nombre lo indica, corta el flujo normal del programa para atender una actividad determinada y luego devuelve el control del flujo a donde había quedado.   
 
 ## ISR en Microcontroladores: Reglas y Buenas Prácticas
-**\* ISR deben ser cortas y rápidas:**  
-        * Las interrupciones bloquean otras operaciones críticas del sistema. Ejecutar procesos largos (como comunicación SPI con LoRa) puede llevar a problemas de latencia o pérdida de interrupciones.  
+* ISR deben ser cortas y rápidas:
+  * Las interrupciones bloquean otras operaciones críticas del sistema. Ejecutar procesos largos (como comunicación SPI con LoRa) puede llevar a problemas de latencia o pérdida de interrupciones.  
 
-**\* No se recomienda llamar a funciones complejas en la ISR:**  
-        * Comunicaciones por SPI (como con el módulo LoRa) pueden ser problemáticas desde una ISR, ya que SPI usa interrupciones y podría generar un conflicto.  
-        * Manipular objetos de clase o funciones complejas podría llevar a comportamientos inesperados.  
+* No se recomienda llamar a funciones complejas en la ISR:
+  * Comunicaciones por SPI (como con el módulo LoRa) pueden ser problemáticas desde una ISR, ya que SPI usa interrupciones y podría generar un conflicto.
+  * Manipular objetos de clase o funciones complejas podría llevar a comportamientos inesperados.  
 
-**\* Alternativa recomendada:**
-        * Usar una bandera en la ISR y delegar el procesamiento al loop() es más seguro.  
+* Alternativa recomendada:
+  * Usar una bandera en la ISR y delegar el procesamiento al loop() es más seguro.  
 
 Asi, podemos mejorar la eficiencia del codigo y optimizar el manejo de eventos sin bloquear la ISR.  
 
